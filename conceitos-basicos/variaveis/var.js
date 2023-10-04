@@ -8,7 +8,6 @@
  * Para declarar uma variável no javascript:
  * */
 
-
 // Declarando a variavel animal, e atribuindo o dado cachorro
 var animal = 'cachorro';
 
