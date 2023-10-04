@@ -16,6 +16,7 @@ console.log(animal);
 
 var animal = "shih tzu";
 
+// Sobrescrita da variavel
 console.log(animal);
 
 // Declarando a variavel quantidade de chocolates e atribuindo o valor 16
