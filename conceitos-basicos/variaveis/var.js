@@ -71,4 +71,3 @@ var pessoa = {
     gostaDeBrocolis: false,
     membrosDoCorpo: ['Braços', 'Pernas', 'Olhos'],
 }
-
