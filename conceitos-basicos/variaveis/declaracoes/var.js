@@ -44,7 +44,7 @@ var valoresBooleanos = [false, true, true, false]; //array
 //Declarando variaveis a atribuindo os valores de nomes de pessoas.
 var pessoas = ['Gabriel', 'Cibele', 'Pelter']; //array
 
-//Declarando variavel e atribuindo objetos.
+//Declarando variavel e atribuindo um array de objetos.
 var pessoas = [{
     nome: 'Renata'
 }, {
