@@ -35,7 +35,7 @@ let valoresBooleanos = [true, true, false, false, true];
 let cidades = ["Sao Paulo", "Osasco", "Guarulhos"];
 
 //Declarando a variavel bola e atribuindo objetos
-let bola = [{
+let bolas = [{
 
     cor: 'Preto e branco',
     diametro: 36,
