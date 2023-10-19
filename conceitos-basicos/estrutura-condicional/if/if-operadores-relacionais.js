@@ -33,30 +33,6 @@ if (temperaturaCorporal >= temperaturaFebre) {
 //Declarando a condicional if e validando se a temperatura corporal é menor ou igual que uma temperatura normal.
 //True
 if (temperaturaCorporal <= temperaturaNormal) {
-    console.log(`ta tranquilo ta favoravel`);
+    console.log (`ta tranquilo ta favoravel`);
 };
 
-
-const climaBom = 'ensolarado';
-const climaRuim = 'chovendo';
-
-//Declarando a condicional if e validando se o clima bom é diferente do clima ruim.
-//True
-if (climaBom != 'chovendo') {
-    console.log('lavar roupa');
-};
-
-const torcidaOrganizada1 = 'mancha verde';
-const torcidaOrganizada2 = 'torcida jovem';
-
-//Declarando a condicional if e validando se a torcida organizada 1 é diferente da torcida organizada 2.
-//True
-if (torcidaOrganizada1 != torcidaOrganizada2) {
-    console.log('pau neles');
-};
-
-//Declarando a condicional if e validando se o brasileiro é diferente do nigeriano.
-//True
-if ('brasileiro' != 'nigeriano') {
-    console.log('gringo');
-};
