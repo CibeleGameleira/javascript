@@ -62,4 +62,8 @@ let pais = {
 };
 
 
+//Declarando a variável nome atribuindo uma string
+let nome = 'ana';
 
+//Declarando a variavel nome e reatribuindo uma string
+nome = 'beatriz';
